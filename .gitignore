@@ -1,0 +1,6 @@
+node_modules/
+ios/Pods
+onetimepass/functions/service_account.json
+.env
+onetimepass/functions/.env
+onetimepass/.env
